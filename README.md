@@ -323,11 +323,4 @@ try {
 		Console.Write(errorResource.ToJson());
 	}
 }
-
-
-
-
-Console.ReadKey(true);
-
-}
 ```
